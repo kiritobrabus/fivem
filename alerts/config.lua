@@ -39,4 +39,5 @@ Config.ShowCopsMisbehave = true
 Config.WhitelistedCops = {
 	'police',
 	'ambulance'
+    'bcso'
 }
