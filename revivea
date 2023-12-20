@@ -25,4 +25,4 @@ TriggerEvent('es:addGroupCommand', 'revivea', 'user', function(source, args, use
 			TriggerClientEvent('esx_ambulancejob:revive', source)
 		end
 	end
-end, {help = _U('revive_help'), params = {{name = 'id'}})
+end, {help = _U('revive_help'), params = {{name = 'id'}}})
